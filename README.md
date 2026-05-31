@@ -1,5 +1,8 @@
 # Predictive Hospitality Pipeline: Mitigating Revenue Leakage via Optimized Machine Learning
 
+🔗 [Click Here to View the Full Interactive Project Notebook](https://colab.research.google.com/drive/1yIbI9ZOjmzANywUpNcxHItlfgXjLH3Da)
+
+
 ## Executive Summary
 An empty hotel room represents unrecoverable revenue. This project delivers an end-to-end predictive pipeline designed to flag high-risk reservations before arrival, allowing hotel operators to strategically manage inventory, implement targeted pre-payment policies, and safely deploy overbooking strategies. 
 
