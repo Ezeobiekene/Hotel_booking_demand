@@ -53,3 +53,6 @@ The model was built using an `XGBoost Classifier`. To maximize the discovery of 
 * **Language:** Python 3.13
 * **Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, Seaborn, Matplotlib
 * **Methodologies:** One-Hot Encoding, Ordinal Mapping, RandomizedSearchCV, Cyclical Feature Engineering
+
+
+👉 [Click here to view the interactive version of the project notebook on NBViewer](YOUR_NBVIEWER_LINK_HERE)
